@@ -1,0 +1,11 @@
+/Users/sisoevauliana/Projects/s_03/s_03/obj/Debug/netcoreapp3.0/s_03.csprojAssemblyReference.cache
+/Users/sisoevauliana/Projects/s_03/s_03/obj/Debug/netcoreapp3.0/s_03.AssemblyInfoInputs.cache
+/Users/sisoevauliana/Projects/s_03/s_03/obj/Debug/netcoreapp3.0/s_03.AssemblyInfo.cs
+/Users/sisoevauliana/Projects/s_03/s_03/bin/Debug/netcoreapp3.0/s_03
+/Users/sisoevauliana/Projects/s_03/s_03/bin/Debug/netcoreapp3.0/s_03.deps.json
+/Users/sisoevauliana/Projects/s_03/s_03/bin/Debug/netcoreapp3.0/s_03.runtimeconfig.json
+/Users/sisoevauliana/Projects/s_03/s_03/bin/Debug/netcoreapp3.0/s_03.runtimeconfig.dev.json
+/Users/sisoevauliana/Projects/s_03/s_03/bin/Debug/netcoreapp3.0/s_03.dll
+/Users/sisoevauliana/Projects/s_03/s_03/bin/Debug/netcoreapp3.0/s_03.pdb
+/Users/sisoevauliana/Projects/s_03/s_03/obj/Debug/netcoreapp3.0/s_03.dll
+/Users/sisoevauliana/Projects/s_03/s_03/obj/Debug/netcoreapp3.0/s_03.pdb
