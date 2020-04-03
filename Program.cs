@@ -34,7 +34,7 @@ namespace s_03
 
             foreach (var l in logGroups)
             {
-                Console.WriteLine("DayOfWeek = {0}, Total price = {1}",
+                Console.WriteLine("DayOfWeek = {0}, Total requests = {1}",
         l.Key, l.AverageRequest);
             }
         }
